@@ -47,6 +47,11 @@
 ### 3.删除图层
  - void MyLayer::deleteSlice();    //删除当前foucs对应的图层
  
+### 4.按键说明
+ - ctrl+滚轮 放大缩小
+ - strl+o 打开文件
+ - ctrl+s 保存
+ 
  
 ## 五、具体分工(有更新)
 
