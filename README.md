@@ -28,6 +28,8 @@
 
 3.使用QPoint MyView::convertPixCoordinate(QPointF)函数获得pix坐标时，如果图层被移动过，获得坐标的原点是始终基于图层左上角，不是基于画布左上角
 
+4.对RGB数组修改后，请依次调用updateItem()和updateImage()更新画布
+
 
 ## 四、基本方法
 
